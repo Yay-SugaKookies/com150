@@ -1,0 +1,10 @@
+C:\Users\cwilkins2\Desktop\Luck\Luck\bin\Debug\Luck.exe.config
+C:\Users\cwilkins2\Desktop\Luck\Luck\bin\Debug\Luck.exe
+C:\Users\cwilkins2\Desktop\Luck\Luck\bin\Debug\Luck.pdb
+C:\Users\cwilkins2\Desktop\Luck\Luck\bin\Debug\Luck.xml
+C:\Users\cwilkins2\Desktop\Luck\Luck\obj\Debug\Luck.Form1.resources
+C:\Users\cwilkins2\Desktop\Luck\Luck\obj\Debug\Luck.Resources.resources
+C:\Users\cwilkins2\Desktop\Luck\Luck\obj\Debug\Luck.vbproj.GenerateResource.Cache
+C:\Users\cwilkins2\Desktop\Luck\Luck\obj\Debug\Luck.exe
+C:\Users\cwilkins2\Desktop\Luck\Luck\obj\Debug\Luck.xml
+C:\Users\cwilkins2\Desktop\Luck\Luck\obj\Debug\Luck.pdb
