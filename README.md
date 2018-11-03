@@ -8,3 +8,9 @@ Today, I was instructed to create three simple windows applications using visual
         luck: Gives you 5 random numbers. The first number is red (because why not?)
 
         average: Finds the average of two numbers.
+        
+        greater: Compares numbers and then tells you if the numbers are equal/greater to eachother in a message box
+        
+        OddsEvens: Tells you if you passed (greater than oe equal to 80) or failed (less than 80) in a message box
+                
+                The Odds Evens one was orignally supposed to be something else at first, but i was too lazy to change the name
