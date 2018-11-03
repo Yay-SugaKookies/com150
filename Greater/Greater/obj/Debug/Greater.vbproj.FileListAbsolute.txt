@@ -1,0 +1,10 @@
+C:\Users\cwilkins2\Desktop\Greater\Greater\bin\Debug\Greater.exe.config
+C:\Users\cwilkins2\Desktop\Greater\Greater\bin\Debug\Greater.exe
+C:\Users\cwilkins2\Desktop\Greater\Greater\bin\Debug\Greater.pdb
+C:\Users\cwilkins2\Desktop\Greater\Greater\bin\Debug\Greater.xml
+C:\Users\cwilkins2\Desktop\Greater\Greater\obj\Debug\Greater.Form1.resources
+C:\Users\cwilkins2\Desktop\Greater\Greater\obj\Debug\Greater.Resources.resources
+C:\Users\cwilkins2\Desktop\Greater\Greater\obj\Debug\Greater.vbproj.GenerateResource.Cache
+C:\Users\cwilkins2\Desktop\Greater\Greater\obj\Debug\Greater.exe
+C:\Users\cwilkins2\Desktop\Greater\Greater\obj\Debug\Greater.xml
+C:\Users\cwilkins2\Desktop\Greater\Greater\obj\Debug\Greater.pdb
