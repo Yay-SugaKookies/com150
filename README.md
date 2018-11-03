@@ -1,5 +1,5 @@
 # com150
-I forgot my flash drive today, so imma upload my visual basic code on here. Today, I was instructed to create three simple windows applications using visual basic. 
+Today, I was instructed to create three simple windows applications using visual basic. I forgot my flash drive, so imma upload my code on here. 
 
 **PROGRAMS WITH THEIR FUNCTIONS:**
 
