@@ -1,8 +1,10 @@
 # com150
-    I forgot my flash drive today, so imma upload my visual basic code on here.
+I forgot my flash drive today, so imma upload my visual basic code on here. Today, I was instructed to create three simple windows applications using visual basic. 
 
-*circle*: Finds the area of a circle after user inputs the radius.
+**PROGRAMS WITH THEIR FUNCTIONS**
 
-*luck*: Gives you 5 random numbers. The first number is red (because why not?)
+        *circle*: Finds the area of a circle after user inputs the radius.
 
-*average*: Finds the average of two numbers.
+        *luck*: Gives you 5 random numbers. The first number is red (because why not?)
+
+        *average*: Finds the average of two numbers.
