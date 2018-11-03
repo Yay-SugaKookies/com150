@@ -46,7 +46,7 @@ Partial Class Form1
         'lblRadius
         '
         Me.lblRadius.AutoSize = True
-        Me.lblRadius.Location = New System.Drawing.Point(30, 32)
+        Me.lblRadius.Location = New System.Drawing.Point(20, 32)
         Me.lblRadius.Name = "lblRadius"
         Me.lblRadius.Size = New System.Drawing.Size(49, 13)
         Me.lblRadius.TabIndex = 2
@@ -54,17 +54,19 @@ Partial Class Form1
         '
         'btnFindArea
         '
+        Me.btnFindArea.BackColor = System.Drawing.Color.Wheat
         Me.btnFindArea.Location = New System.Drawing.Point(63, 79)
         Me.btnFindArea.Name = "btnFindArea"
         Me.btnFindArea.Size = New System.Drawing.Size(75, 23)
         Me.btnFindArea.TabIndex = 3
         Me.btnFindArea.Text = "Find Area"
-        Me.btnFindArea.UseVisualStyleBackColor = True
+        Me.btnFindArea.UseVisualStyleBackColor = False
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.Color.PowderBlue
         Me.ClientSize = New System.Drawing.Size(203, 190)
         Me.Controls.Add(Me.btnFindArea)
         Me.Controls.Add(Me.lblRadius)
