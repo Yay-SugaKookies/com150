@@ -1,1 +1,10 @@
 C:\Users\cwilkins2\Desktop\average\average\bin\Debug\average.exe.config
+C:\Users\cwilkins2\Desktop\average\average\bin\Debug\average.exe
+C:\Users\cwilkins2\Desktop\average\average\bin\Debug\average.pdb
+C:\Users\cwilkins2\Desktop\average\average\bin\Debug\average.xml
+C:\Users\cwilkins2\Desktop\average\average\obj\Debug\average.Form1.resources
+C:\Users\cwilkins2\Desktop\average\average\obj\Debug\average.Resources.resources
+C:\Users\cwilkins2\Desktop\average\average\obj\Debug\average.vbproj.GenerateResource.Cache
+C:\Users\cwilkins2\Desktop\average\average\obj\Debug\average.exe
+C:\Users\cwilkins2\Desktop\average\average\obj\Debug\average.xml
+C:\Users\cwilkins2\Desktop\average\average\obj\Debug\average.pdb
