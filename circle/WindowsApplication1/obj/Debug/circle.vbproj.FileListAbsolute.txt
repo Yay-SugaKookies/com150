@@ -1,0 +1,4 @@
+C:\Users\cwilkins2\Desktop\circle\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\cwilkins2\Desktop\circle\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\cwilkins2\Desktop\circle\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\cwilkins2\Desktop\circle\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

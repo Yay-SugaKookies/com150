@@ -55,6 +55,7 @@ Partial Class Form1
         'btnFindArea
         '
         Me.btnFindArea.BackColor = System.Drawing.Color.Wheat
+        Me.btnFindArea.FlatStyle = System.Windows.Forms.FlatStyle.Popup
         Me.btnFindArea.Location = New System.Drawing.Point(63, 79)
         Me.btnFindArea.Name = "btnFindArea"
         Me.btnFindArea.Size = New System.Drawing.Size(75, 23)
