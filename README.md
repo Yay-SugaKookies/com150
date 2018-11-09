@@ -12,5 +12,5 @@ Today, I was instructed to create three simple windows applications using visual
         greater: Compares numbers and then tells you if the numbers are equal/greater to eachother in a message box
         
         OddsEvens: Tells you if you passed (greater than oe equal to 80) or failed (less than 80) in a message box
-                        The Odds Evens one was orignally supposed to be something else at first, but I was too lazy to change the name
+                **The Odds Evens one was orignally supposed to be something else at first, but I was too lazy to change the name**
         GrossPay: Calculates the gross pay when given the # of hours worked and the pay rate.
