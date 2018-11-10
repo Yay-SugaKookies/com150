@@ -46,7 +46,7 @@ Partial Class Form1
         '
         Me.lblPay.AutoSize = True
         Me.lblPay.Font = New System.Drawing.Font("Gadugi", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblPay.Location = New System.Drawing.Point(41, 108)
+        Me.lblPay.Location = New System.Drawing.Point(41, 97)
         Me.lblPay.Name = "lblPay"
         Me.lblPay.Size = New System.Drawing.Size(84, 14)
         Me.lblPay.TabIndex = 1
@@ -56,7 +56,7 @@ Partial Class Form1
         '
         Me.lblGross.AutoSize = True
         Me.lblGross.Font = New System.Drawing.Font("Gadugi", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblGross.Location = New System.Drawing.Point(27, 142)
+        Me.lblGross.Location = New System.Drawing.Point(27, 134)
         Me.lblGross.Name = "lblGross"
         Me.lblGross.Size = New System.Drawing.Size(98, 14)
         Me.lblGross.TabIndex = 2
@@ -89,9 +89,9 @@ Partial Class Form1
         Me.btnGross.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(CType(CType(252, Byte), Integer), CType(CType(93, Byte), Integer), CType(CType(167, Byte), Integer))
         Me.btnGross.FlatStyle = System.Windows.Forms.FlatStyle.Popup
         Me.btnGross.Font = New System.Drawing.Font("Gadugi", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnGross.Location = New System.Drawing.Point(68, 177)
+        Me.btnGross.Location = New System.Drawing.Point(30, 166)
         Me.btnGross.Name = "btnGross"
-        Me.btnGross.Size = New System.Drawing.Size(126, 30)
+        Me.btnGross.Size = New System.Drawing.Size(201, 30)
         Me.btnGross.TabIndex = 4
         Me.btnGross.Text = "Calculate Pay Gross"
         Me.btnGross.UseVisualStyleBackColor = False
@@ -99,7 +99,7 @@ Partial Class Form1
         'txtPay
         '
         Me.txtPay.BackColor = System.Drawing.SystemColors.Window
-        Me.txtPay.Location = New System.Drawing.Point(131, 106)
+        Me.txtPay.Location = New System.Drawing.Point(131, 95)
         Me.txtPay.Name = "txtPay"
         Me.txtPay.Size = New System.Drawing.Size(100, 20)
         Me.txtPay.TabIndex = 6
@@ -119,7 +119,7 @@ Partial Class Form1
         Me.lblResult.BackColor = System.Drawing.SystemColors.Window
         Me.lblResult.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.lblResult.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
-        Me.lblResult.Location = New System.Drawing.Point(158, 143)
+        Me.lblResult.Location = New System.Drawing.Point(131, 133)
         Me.lblResult.Name = "lblResult"
         Me.lblResult.Size = New System.Drawing.Size(36, 15)
         Me.lblResult.TabIndex = 8
@@ -130,7 +130,7 @@ Partial Class Form1
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(240, Byte), Integer))
-        Me.ClientSize = New System.Drawing.Size(258, 233)
+        Me.ClientSize = New System.Drawing.Size(258, 212)
         Me.Controls.Add(Me.lblResult)
         Me.Controls.Add(Me.txtHours)
         Me.Controls.Add(Me.txtPay)
