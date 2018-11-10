@@ -27,9 +27,9 @@ Partial Class Form1
         Me.lblGross = New System.Windows.Forms.Label()
         Me.btnExit = New System.Windows.Forms.Button()
         Me.btnGross = New System.Windows.Forms.Button()
-        Me.txtGross = New System.Windows.Forms.TextBox()
         Me.txtPay = New System.Windows.Forms.TextBox()
         Me.txtHours = New System.Windows.Forms.TextBox()
+        Me.lblResult = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'lblHours
@@ -56,7 +56,7 @@ Partial Class Form1
         '
         Me.lblGross.AutoSize = True
         Me.lblGross.Font = New System.Drawing.Font("Gadugi", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblGross.Location = New System.Drawing.Point(27, 194)
+        Me.lblGross.Location = New System.Drawing.Point(27, 142)
         Me.lblGross.Name = "lblGross"
         Me.lblGross.Size = New System.Drawing.Size(98, 14)
         Me.lblGross.TabIndex = 2
@@ -89,24 +89,16 @@ Partial Class Form1
         Me.btnGross.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(CType(CType(252, Byte), Integer), CType(CType(93, Byte), Integer), CType(CType(167, Byte), Integer))
         Me.btnGross.FlatStyle = System.Windows.Forms.FlatStyle.Popup
         Me.btnGross.Font = New System.Drawing.Font("Gadugi", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnGross.Location = New System.Drawing.Point(73, 147)
+        Me.btnGross.Location = New System.Drawing.Point(68, 177)
         Me.btnGross.Name = "btnGross"
         Me.btnGross.Size = New System.Drawing.Size(126, 30)
         Me.btnGross.TabIndex = 4
         Me.btnGross.Text = "Calculate Pay Gross"
         Me.btnGross.UseVisualStyleBackColor = False
         '
-        'txtGross
-        '
-        Me.txtGross.Location = New System.Drawing.Point(131, 192)
-        Me.txtGross.Name = "txtGross"
-        Me.txtGross.Size = New System.Drawing.Size(100, 20)
-        Me.txtGross.TabIndex = 5
-        Me.txtGross.Text = "0.00"
-        Me.txtGross.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        '
         'txtPay
         '
+        Me.txtPay.BackColor = System.Drawing.SystemColors.Window
         Me.txtPay.Location = New System.Drawing.Point(131, 106)
         Me.txtPay.Name = "txtPay"
         Me.txtPay.Size = New System.Drawing.Size(100, 20)
@@ -121,15 +113,27 @@ Partial Class Form1
         Me.txtHours.TabIndex = 7
         Me.txtHours.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
+        'lblResult
+        '
+        Me.lblResult.AutoSize = True
+        Me.lblResult.BackColor = System.Drawing.SystemColors.Window
+        Me.lblResult.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.lblResult.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
+        Me.lblResult.Location = New System.Drawing.Point(158, 143)
+        Me.lblResult.Name = "lblResult"
+        Me.lblResult.Size = New System.Drawing.Size(36, 15)
+        Me.lblResult.TabIndex = 8
+        Me.lblResult.Text = "$0.00"
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(240, Byte), Integer))
         Me.ClientSize = New System.Drawing.Size(258, 233)
+        Me.Controls.Add(Me.lblResult)
         Me.Controls.Add(Me.txtHours)
         Me.Controls.Add(Me.txtPay)
-        Me.Controls.Add(Me.txtGross)
         Me.Controls.Add(Me.btnGross)
         Me.Controls.Add(Me.btnExit)
         Me.Controls.Add(Me.lblGross)
@@ -146,8 +150,8 @@ Partial Class Form1
     Friend WithEvents lblGross As System.Windows.Forms.Label
     Friend WithEvents btnExit As System.Windows.Forms.Button
     Friend WithEvents btnGross As System.Windows.Forms.Button
-    Friend WithEvents txtGross As System.Windows.Forms.TextBox
     Friend WithEvents txtPay As System.Windows.Forms.TextBox
     Friend WithEvents txtHours As System.Windows.Forms.TextBox
+    Friend WithEvents lblResult As System.Windows.Forms.Label
 
 End Class

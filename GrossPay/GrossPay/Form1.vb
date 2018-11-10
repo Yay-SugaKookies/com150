@@ -9,6 +9,6 @@
         Dim hours As Integer = CInt(txtHours.Text)
         Dim rate As Double = CDbl(txtPay.Text)
         Dim gross As Double = hours * rate
-        txtGross.Text = "$" & gross
+        lblResult.Text = "$" & gross
     End Sub
 End Class
