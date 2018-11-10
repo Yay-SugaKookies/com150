@@ -9,12 +9,18 @@ Today, I was instructed to create three simple windows applications using visual
 
         average: Finds the average of two numbers.
         
-        greater: Compares numbers and then tells you if the numbers are equal/greater to eachother in a message box
+        greater: Compares numbers and then tells you if the numbers are equal/greater to eachother in a message box.
         
-        OddsEvens: Tells you if you passed (greater than oe equal to 80) or failed (less than 80) in a message box
-                **The Odds Evens one was orignally supposed to be something else at first, but I was too lazy to change the name**
+        largerNumber: Compares numbers and then tells you which one is greater.
+        
+        OddsEvens: Tells you if you passed (greater than oe equal to 80) or failed (less than 80) in a message box.
+                **The Odds Evens one was orignally supposed to be something else at first, but I was too lazy to change the name.**
+        
         GrossPay: Calculates the gross pay when given the # of hours worked and the pay rate.
-
+        
+        squareArea: Finds the area of a square after the side length is inputed by the user.
+        
+        triangleArea: Finds the area of a triangle after the base and height is inputed by the user.
 
 
 
