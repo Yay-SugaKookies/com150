@@ -1,0 +1,10 @@
+C:\Users\cwilkins2\Desktop\10-gallonHat\10-gallonHat\bin\Debug\10-gallonHat.exe.config
+C:\Users\cwilkins2\Desktop\10-gallonHat\10-gallonHat\obj\Debug\_10_gallonHat.Form1.resources
+C:\Users\cwilkins2\Desktop\10-gallonHat\10-gallonHat\obj\Debug\_10_gallonHat.Resources.resources
+C:\Users\cwilkins2\Desktop\10-gallonHat\10-gallonHat\obj\Debug\10-gallonHat.vbproj.GenerateResource.Cache
+C:\Users\cwilkins2\Desktop\10-gallonHat\10-gallonHat\bin\Debug\10-gallonHat.exe
+C:\Users\cwilkins2\Desktop\10-gallonHat\10-gallonHat\bin\Debug\10-gallonHat.pdb
+C:\Users\cwilkins2\Desktop\10-gallonHat\10-gallonHat\bin\Debug\10-gallonHat.xml
+C:\Users\cwilkins2\Desktop\10-gallonHat\10-gallonHat\obj\Debug\10-gallonHat.exe
+C:\Users\cwilkins2\Desktop\10-gallonHat\10-gallonHat\obj\Debug\10-gallonHat.xml
+C:\Users\cwilkins2\Desktop\10-gallonHat\10-gallonHat\obj\Debug\10-gallonHat.pdb
