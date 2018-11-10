@@ -17,6 +17,7 @@ Today, I was instructed to create three simple windows applications using visual
                 **The Odds Evens one was orignally supposed to be something else at first, but I was too lazy to change the name.**
         
         GrossPay: Calculates the gross pay when given the # of hours worked and the pay rate.
+        GrossPay.v2: It has the same functions as the original, but it comes with a tiny hint of judgment
         
         squareArea: Finds the area of a square after the side length is inputed by the user.
         
