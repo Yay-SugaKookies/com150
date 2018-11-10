@@ -56,7 +56,7 @@ Partial Class Form1
         '
         Me.lblGross.AutoSize = True
         Me.lblGross.Font = New System.Drawing.Font("Gadugi", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblGross.Location = New System.Drawing.Point(27, 219)
+        Me.lblGross.Location = New System.Drawing.Point(27, 194)
         Me.lblGross.Name = "lblGross"
         Me.lblGross.Size = New System.Drawing.Size(98, 14)
         Me.lblGross.TabIndex = 2
@@ -89,16 +89,16 @@ Partial Class Form1
         Me.btnGross.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(CType(CType(252, Byte), Integer), CType(CType(93, Byte), Integer), CType(CType(167, Byte), Integer))
         Me.btnGross.FlatStyle = System.Windows.Forms.FlatStyle.Popup
         Me.btnGross.Font = New System.Drawing.Font("Gadugi", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnGross.Location = New System.Drawing.Point(86, 153)
+        Me.btnGross.Location = New System.Drawing.Point(73, 147)
         Me.btnGross.Name = "btnGross"
-        Me.btnGross.Size = New System.Drawing.Size(84, 38)
+        Me.btnGross.Size = New System.Drawing.Size(126, 30)
         Me.btnGross.TabIndex = 4
         Me.btnGross.Text = "Calculate Pay Gross"
         Me.btnGross.UseVisualStyleBackColor = False
         '
         'txtGross
         '
-        Me.txtGross.Location = New System.Drawing.Point(131, 217)
+        Me.txtGross.Location = New System.Drawing.Point(131, 192)
         Me.txtGross.Name = "txtGross"
         Me.txtGross.Size = New System.Drawing.Size(100, 20)
         Me.txtGross.TabIndex = 5
@@ -126,7 +126,7 @@ Partial Class Form1
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(226, Byte), Integer), CType(CType(240, Byte), Integer))
-        Me.ClientSize = New System.Drawing.Size(258, 267)
+        Me.ClientSize = New System.Drawing.Size(258, 233)
         Me.Controls.Add(Me.txtHours)
         Me.Controls.Add(Me.txtPay)
         Me.Controls.Add(Me.txtGross)

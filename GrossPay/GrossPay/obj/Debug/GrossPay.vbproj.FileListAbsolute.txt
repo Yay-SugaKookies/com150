@@ -8,3 +8,7 @@ C:\Users\cwilkins2\Desktop\GrossPay\GrossPay\bin\Debug\GrossPay.xml
 C:\Users\cwilkins2\Desktop\GrossPay\GrossPay\obj\Debug\GrossPay.exe
 C:\Users\cwilkins2\Desktop\GrossPay\GrossPay\obj\Debug\GrossPay.xml
 C:\Users\cwilkins2\Desktop\GrossPay\GrossPay\obj\Debug\GrossPay.pdb
+C:\Users\cwilkins2\Desktop\com150-master\GrossPay\GrossPay\bin\Debug\GrossPay.exe.config
+C:\Users\cwilkins2\Desktop\com150-master\GrossPay\GrossPay\obj\Debug\GrossPay.exe
+C:\Users\cwilkins2\Desktop\com150-master\GrossPay\GrossPay\obj\Debug\GrossPay.xml
+C:\Users\cwilkins2\Desktop\com150-master\GrossPay\GrossPay\obj\Debug\GrossPay.pdb
