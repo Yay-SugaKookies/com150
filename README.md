@@ -16,5 +16,8 @@ Today, I was instructed to create three simple windows applications using visual
         GrossPay: Calculates the gross pay when given the # of hours worked and the pay rate.
 
 
+
+
 *update*
+
 I've realized that uploading all of my code on Github is more effiencent than bringing my flashdrive all the time. (Guess who is gonna get 100 on the exam!!!)
