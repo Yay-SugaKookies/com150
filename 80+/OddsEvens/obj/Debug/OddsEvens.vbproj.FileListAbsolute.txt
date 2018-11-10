@@ -1,0 +1,10 @@
+C:\Users\cwilkins2\Desktop\OddsEvens\OddsEvens\bin\Debug\OddsEvens.exe.config
+C:\Users\cwilkins2\Desktop\OddsEvens\OddsEvens\obj\Debug\OddsEvens.Form1.resources
+C:\Users\cwilkins2\Desktop\OddsEvens\OddsEvens\obj\Debug\OddsEvens.Resources.resources
+C:\Users\cwilkins2\Desktop\OddsEvens\OddsEvens\obj\Debug\OddsEvens.vbproj.GenerateResource.Cache
+C:\Users\cwilkins2\Desktop\OddsEvens\OddsEvens\bin\Debug\OddsEvens.exe
+C:\Users\cwilkins2\Desktop\OddsEvens\OddsEvens\bin\Debug\OddsEvens.pdb
+C:\Users\cwilkins2\Desktop\OddsEvens\OddsEvens\bin\Debug\OddsEvens.xml
+C:\Users\cwilkins2\Desktop\OddsEvens\OddsEvens\obj\Debug\OddsEvens.exe
+C:\Users\cwilkins2\Desktop\OddsEvens\OddsEvens\obj\Debug\OddsEvens.xml
+C:\Users\cwilkins2\Desktop\OddsEvens\OddsEvens\obj\Debug\OddsEvens.pdb
