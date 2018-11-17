@@ -1,0 +1,10 @@
+C:\Users\cwilkins2\Desktop\Exam1Project\Exam1Project\bin\Debug\Exam1Project.exe.config
+C:\Users\cwilkins2\Desktop\Exam1Project\Exam1Project\bin\Debug\Exam1Project.exe
+C:\Users\cwilkins2\Desktop\Exam1Project\Exam1Project\bin\Debug\Exam1Project.pdb
+C:\Users\cwilkins2\Desktop\Exam1Project\Exam1Project\bin\Debug\Exam1Project.xml
+C:\Users\cwilkins2\Desktop\Exam1Project\Exam1Project\obj\Debug\Exam1Project.Form1.resources
+C:\Users\cwilkins2\Desktop\Exam1Project\Exam1Project\obj\Debug\Exam1Project.Resources.resources
+C:\Users\cwilkins2\Desktop\Exam1Project\Exam1Project\obj\Debug\Exam1Project.vbproj.GenerateResource.Cache
+C:\Users\cwilkins2\Desktop\Exam1Project\Exam1Project\obj\Debug\Exam1Project.exe
+C:\Users\cwilkins2\Desktop\Exam1Project\Exam1Project\obj\Debug\Exam1Project.xml
+C:\Users\cwilkins2\Desktop\Exam1Project\Exam1Project\obj\Debug\Exam1Project.pdb
