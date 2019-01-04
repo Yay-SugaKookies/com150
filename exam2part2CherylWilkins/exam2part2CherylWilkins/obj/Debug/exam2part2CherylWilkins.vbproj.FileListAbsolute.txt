@@ -1,0 +1,10 @@
+c:\users\cwilkins2\documents\visual studio 2013\Projects\exam2part2CherylWilkins\exam2part2CherylWilkins\bin\Debug\exam2part2CherylWilkins.exe.config
+c:\users\cwilkins2\documents\visual studio 2013\Projects\exam2part2CherylWilkins\exam2part2CherylWilkins\obj\Debug\exam2part2CherylWilkins.Form1.resources
+c:\users\cwilkins2\documents\visual studio 2013\Projects\exam2part2CherylWilkins\exam2part2CherylWilkins\obj\Debug\exam2part2CherylWilkins.Resources.resources
+c:\users\cwilkins2\documents\visual studio 2013\Projects\exam2part2CherylWilkins\exam2part2CherylWilkins\obj\Debug\exam2part2CherylWilkins.vbproj.GenerateResource.Cache
+c:\users\cwilkins2\documents\visual studio 2013\Projects\exam2part2CherylWilkins\exam2part2CherylWilkins\bin\Debug\exam2part2CherylWilkins.exe
+c:\users\cwilkins2\documents\visual studio 2013\Projects\exam2part2CherylWilkins\exam2part2CherylWilkins\bin\Debug\exam2part2CherylWilkins.pdb
+c:\users\cwilkins2\documents\visual studio 2013\Projects\exam2part2CherylWilkins\exam2part2CherylWilkins\bin\Debug\exam2part2CherylWilkins.xml
+c:\users\cwilkins2\documents\visual studio 2013\Projects\exam2part2CherylWilkins\exam2part2CherylWilkins\obj\Debug\exam2part2CherylWilkins.exe
+c:\users\cwilkins2\documents\visual studio 2013\Projects\exam2part2CherylWilkins\exam2part2CherylWilkins\obj\Debug\exam2part2CherylWilkins.xml
+c:\users\cwilkins2\documents\visual studio 2013\Projects\exam2part2CherylWilkins\exam2part2CherylWilkins\obj\Debug\exam2part2CherylWilkins.pdb
