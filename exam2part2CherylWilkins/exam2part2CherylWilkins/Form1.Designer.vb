@@ -29,6 +29,7 @@ Partial Class Form1
         Me.btnResults = New System.Windows.Forms.Button()
         Me.lstresult = New System.Windows.Forms.ListBox()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.btnReset = New System.Windows.Forms.Button()
         Me.GroupBox1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -57,7 +58,7 @@ Partial Class Form1
         'rb3
         '
         Me.rb3.AutoSize = True
-        Me.rb3.Location = New System.Drawing.Point(17, 64)
+        Me.rb3.Location = New System.Drawing.Point(17, 65)
         Me.rb3.Name = "rb3"
         Me.rb3.Size = New System.Drawing.Size(55, 17)
         Me.rb3.TabIndex = 2
@@ -67,18 +68,18 @@ Partial Class Form1
         '
         'btnVote
         '
-        Me.btnVote.Location = New System.Drawing.Point(23, 120)
+        Me.btnVote.Location = New System.Drawing.Point(7, 131)
         Me.btnVote.Name = "btnVote"
-        Me.btnVote.Size = New System.Drawing.Size(75, 23)
+        Me.btnVote.Size = New System.Drawing.Size(151, 55)
         Me.btnVote.TabIndex = 6
         Me.btnVote.Text = "Vote"
         Me.btnVote.UseVisualStyleBackColor = True
         '
         'btnResults
         '
-        Me.btnResults.Location = New System.Drawing.Point(140, 19)
+        Me.btnResults.Location = New System.Drawing.Point(173, 12)
         Me.btnResults.Name = "btnResults"
-        Me.btnResults.Size = New System.Drawing.Size(75, 23)
+        Me.btnResults.Size = New System.Drawing.Size(167, 36)
         Me.btnResults.TabIndex = 7
         Me.btnResults.Text = "Results"
         Me.btnResults.UseVisualStyleBackColor = True
@@ -86,9 +87,9 @@ Partial Class Form1
         'lstresult
         '
         Me.lstresult.FormattingEnabled = True
-        Me.lstresult.Location = New System.Drawing.Point(119, 48)
+        Me.lstresult.Location = New System.Drawing.Point(173, 52)
         Me.lstresult.Name = "lstresult"
-        Me.lstresult.Size = New System.Drawing.Size(120, 95)
+        Me.lstresult.Size = New System.Drawing.Size(167, 134)
         Me.lstresult.TabIndex = 8
         '
         'GroupBox1
@@ -96,18 +97,28 @@ Partial Class Form1
         Me.GroupBox1.Controls.Add(Me.rb1)
         Me.GroupBox1.Controls.Add(Me.rb2)
         Me.GroupBox1.Controls.Add(Me.rb3)
-        Me.GroupBox1.Location = New System.Drawing.Point(-3, 28)
+        Me.GroupBox1.Location = New System.Drawing.Point(7, 12)
         Me.GroupBox1.Name = "GroupBox1"
-        Me.GroupBox1.Size = New System.Drawing.Size(116, 86)
+        Me.GroupBox1.Size = New System.Drawing.Size(151, 102)
         Me.GroupBox1.TabIndex = 9
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Vote:"
+        '
+        'btnReset
+        '
+        Me.btnReset.Location = New System.Drawing.Point(7, 192)
+        Me.btnReset.Name = "btnReset"
+        Me.btnReset.Size = New System.Drawing.Size(333, 34)
+        Me.btnReset.TabIndex = 10
+        Me.btnReset.Text = "Reset Votes?"
+        Me.btnReset.UseVisualStyleBackColor = True
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(251, 159)
+        Me.ClientSize = New System.Drawing.Size(350, 232)
+        Me.Controls.Add(Me.btnReset)
         Me.Controls.Add(Me.GroupBox1)
         Me.Controls.Add(Me.lstresult)
         Me.Controls.Add(Me.btnResults)
@@ -126,5 +137,6 @@ Partial Class Form1
     Friend WithEvents btnResults As System.Windows.Forms.Button
     Friend WithEvents lstresult As System.Windows.Forms.ListBox
     Friend WithEvents GroupBox1 As System.Windows.Forms.GroupBox
+    Friend WithEvents btnReset As System.Windows.Forms.Button
 
 End Class

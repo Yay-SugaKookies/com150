@@ -1,0 +1,10 @@
+C:\Users\cwilkins2\Desktop\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\cwilkins2\Desktop\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\cwilkins2\Desktop\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\cwilkins2\Desktop\calculator\calculator\bin\Debug\calculator.xml
+C:\Users\cwilkins2\Desktop\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\cwilkins2\Desktop\calculator\calculator\obj\Debug\calculator.Resources.resources
+C:\Users\cwilkins2\Desktop\calculator\calculator\obj\Debug\calculator.vbproj.GenerateResource.Cache
+C:\Users\cwilkins2\Desktop\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\cwilkins2\Desktop\calculator\calculator\obj\Debug\calculator.xml
+C:\Users\cwilkins2\Desktop\calculator\calculator\obj\Debug\calculator.pdb

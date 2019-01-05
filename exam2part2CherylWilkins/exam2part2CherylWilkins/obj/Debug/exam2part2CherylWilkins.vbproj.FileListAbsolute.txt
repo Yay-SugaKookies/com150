@@ -8,3 +8,13 @@ c:\users\cwilkins2\documents\visual studio 2013\Projects\exam2part2CherylWilkins
 c:\users\cwilkins2\documents\visual studio 2013\Projects\exam2part2CherylWilkins\exam2part2CherylWilkins\obj\Debug\exam2part2CherylWilkins.exe
 c:\users\cwilkins2\documents\visual studio 2013\Projects\exam2part2CherylWilkins\exam2part2CherylWilkins\obj\Debug\exam2part2CherylWilkins.xml
 c:\users\cwilkins2\documents\visual studio 2013\Projects\exam2part2CherylWilkins\exam2part2CherylWilkins\obj\Debug\exam2part2CherylWilkins.pdb
+C:\Users\cwilkins2\Desktop\com150-master\exam2part2CherylWilkins\exam2part2CherylWilkins\bin\Debug\exam2part2CherylWilkins.exe.config
+C:\Users\cwilkins2\Desktop\com150-master\exam2part2CherylWilkins\exam2part2CherylWilkins\obj\Debug\exam2part2CherylWilkins.exe
+C:\Users\cwilkins2\Desktop\com150-master\exam2part2CherylWilkins\exam2part2CherylWilkins\obj\Debug\exam2part2CherylWilkins.xml
+C:\Users\cwilkins2\Desktop\com150-master\exam2part2CherylWilkins\exam2part2CherylWilkins\obj\Debug\exam2part2CherylWilkins.pdb
+C:\Users\cwilkins2\Desktop\com150-master\exam2part2CherylWilkins\exam2part2CherylWilkins\bin\Debug\exam2part2CherylWilkins.exe
+C:\Users\cwilkins2\Desktop\com150-master\exam2part2CherylWilkins\exam2part2CherylWilkins\bin\Debug\exam2part2CherylWilkins.pdb
+C:\Users\cwilkins2\Desktop\com150-master\exam2part2CherylWilkins\exam2part2CherylWilkins\bin\Debug\exam2part2CherylWilkins.xml
+C:\Users\cwilkins2\Desktop\com150-master\exam2part2CherylWilkins\exam2part2CherylWilkins\obj\Debug\exam2part2CherylWilkins.Form1.resources
+C:\Users\cwilkins2\Desktop\com150-master\exam2part2CherylWilkins\exam2part2CherylWilkins\obj\Debug\exam2part2CherylWilkins.Resources.resources
+C:\Users\cwilkins2\Desktop\com150-master\exam2part2CherylWilkins\exam2part2CherylWilkins\obj\Debug\exam2part2CherylWilkins.vbproj.GenerateResource.Cache
