@@ -189,5 +189,32 @@
         If Not IsNumeric(txtShow.Text) Then
             MsgBox("Please enter numbers only", vbInformation)
         End If
+        n2 = Val(txtShow.Text)
+        If op = "+" Then
+            result = n1 + n2
+        End If
+        If op = "-" Then
+            result = n1 - n2
+        End If
+        If op = "/" Then
+            result = n1 / n2
+        End If
+        If op = "*" Then
+            result = n1 * n2
+        End If
+        txtShow.Text = CStr(result)
+    End Sub
+
+    Private Sub btnBackspace_Click(sender As Object, e As EventArgs) Handles btnBackspace.Click
+        txtShow.Text = txtShow.Text.Substring(0, txtShow.Text.Length - 1)
+        If txtShow.Text.Length = 0 Then
+            txtShow.Text = 0
+        End If
+    End Sub
+
+    Private Sub btnSqrt_Click(sender As Object, e As EventArgs) Handles btnSqrt.Click
+        n1 = Val(txtShow.Text)
+        result = n1 ^ (0.5)
+        txtShow.Text = result
     End Sub
 End Class
