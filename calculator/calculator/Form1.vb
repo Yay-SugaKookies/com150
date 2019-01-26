@@ -134,6 +134,7 @@
     Private Sub btnCE_Click(sender As Object, e As EventArgs) Handles btnCE.Click
         txtShow.Clear()
         txtShow.Text = 0
+        n2 = 0
     End Sub
 
     Private Sub btnC_Click(sender As Object, e As EventArgs) Handles btnC.Click
@@ -153,6 +154,7 @@
         n1 = Val(txtShow.Text)
         op = "/"
         txtShow.Text = op
+
     End Sub
 
     Private Sub btnMultiply_Click(sender As Object, e As EventArgs) Handles btnMultiply.Click
@@ -213,8 +215,30 @@
     End Sub
 
     Private Sub btnSqrt_Click(sender As Object, e As EventArgs) Handles btnSqrt.Click
+
         n1 = Val(txtShow.Text)
         result = n1 ^ (0.5)
         txtShow.Text = result
+    End Sub
+
+    Private Sub btnPercent_Click(sender As Object, e As EventArgs) Handles btnPercent.Click
+        n2 = Val(txtShow.Text) / 100
+        txtShow.Text = n2
+    End Sub
+
+    Private Sub btnMR_Click(sender As Object, e As EventArgs) Handles btnMR.Click
+        txtShow.Text = mem
+    End Sub
+
+    Private Sub btnMS_Click(sender As Object, e As EventArgs) Handles btnMS.Click
+        mem = Val(txtShow.Text)
+    End Sub
+
+    Private Sub btnM_Click(sender As Object, e As EventArgs) Handles btnM.Click
+        mem = mem + Val(txtShow.Text)
+    End Sub
+
+    Private Sub btnMC_Click(sender As Object, e As EventArgs) Handles btnMC.Click
+        mem = 0
     End Sub
 End Class

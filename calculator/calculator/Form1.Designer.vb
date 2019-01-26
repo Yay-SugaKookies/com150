@@ -461,7 +461,7 @@ Partial Class Form1
         Me.Controls.Add(Me.btnClose)
         Me.Controls.Add(Me.txtShow)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "Calculator"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
